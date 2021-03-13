@@ -40,9 +40,9 @@ The UI was built by Rocketseat Team and I'm willing to improve it by adding some
 
 **Start the application**
 
-> yarn start
+> yarn dev
 
 
 
-:heart: Feito por [Naoshi Arimori!](https://www.linkedin.com/in/naoshi/)
+:heart: Developed by [Naoshi Arimori!](https://www.linkedin.com/in/naoshi/)
 

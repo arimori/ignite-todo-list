@@ -1,11 +1,11 @@
 # Ignite-todo-list
 To-do list application in order to practice react concepts.
 
-<img src="git-explore.gif" alt="drawing"/>
+<img src="ignite-todo-list.gif" alt="drawing"/>
 
 <p style="text-align: center">
 <a href="https://www.linkedin.com/in/naoshi/">
-<img alt="Feito por" src="https://img.shields.io/badge/Developed%20by-Naoshi%20Arimori-blue">
+<img alt="Developed by" src="https://img.shields.io/badge/Developed%20by-Naoshi%20Arimori-blue">
 </a>
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/NaoshiAC/ignite-todo-list">
 <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/NaoshiAC/ignite-todo-list">

@@ -1,5 +1,6 @@
 header.header {
-  background: var(--blue);
+  background: rgb(39,63,173);
+  background: linear-gradient(90deg, rgba(39,63,173,1) 0%, rgba(158,90,193,1) 95%);
   padding-top: 2rem;
   
   > div {

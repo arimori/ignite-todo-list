@@ -1,9 +1,0 @@
-Options -MultiViews
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^ index.html [QSA,L]
-
-<IfModule mod_headers.c> 
-Header add Access-Control-Allow-Headers "origin, x-requested-with, content-type" 
-Header add Access-Control-Allow-Methods "PUT, GET, POST, DELETE, OPTIONS" 
-</IfModule>

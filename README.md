@@ -1,7 +1,7 @@
 # Ignite-todo-list
 To-do list application in order to practice react concepts.
 
-<img src="ignite-todo-list.gif" alt="drawing"/>
+<img src="https://github.com/NaoshiAC/ignite-todo-list/blob/main/src/preview/ignite-todo-list.gif" alt="Todo List"/>
 
 <p style="text-align: center">
 <a href="https://www.linkedin.com/in/naoshi/">

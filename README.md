@@ -17,7 +17,7 @@ To-do list application in order to practice react concepts.
 ### 📑 Ignite TODO List
 
 ---
-As part of a challenge from Ignite (*an acceleration program for devs, focused on preparing complete professionals for the market, training technical and behavioral skills in an intensive and practical way*) developed by [Rocketseat](https://rocketseat.com.br/), this project has been build in order to practice some concepts from **React** such as **State**, **Imutability** and **Hooks**.
+As part of a challenge from Ignite (*an acceleration program for devs, focused on preparing complete professionals for the market, training technical and behavioral skills in an intensive and practical way*) developed by [Rocketseat](https://rocketseat.com.br/), this project has been built in order to practice some concepts from **React** such as **State**, **Imutability** and **Hooks**.
 Also, it was the first time I worked with **Jest** so as to be able testing the Tasks handlers methods;
 
 

@@ -1,5 +1,5 @@
 # Ignite-todo-list
-To-do list application in order to practice react concepts.
+To-do list application in order to practice React concepts.
 
 <img src="https://github.com/arimori/ignite-todo-list/blob/main/src/preview/ignite-todo-list.gif" alt="Todo List"/>
 
